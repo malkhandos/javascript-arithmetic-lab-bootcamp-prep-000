@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(a, b) {
   return a+b;
 }
@@ -34,3 +35,6 @@ function preserveDecimal(n) {
   return n
 }
 
+=======
+parseInt('3.333', 10)
+>>>>>>> 3ce83404a9fbd3b7890ca2a89441cadc4f4327ef
